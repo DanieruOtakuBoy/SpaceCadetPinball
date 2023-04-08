@@ -5760,7 +5760,7 @@ const TextArray translations::Translations =
 			{ Lang::German, "Hilfethemen" },
 			{ Lang::Greek, "Θέματα στη Βοήθεια" },
 			{ Lang::English, "Help Topics" },
-			{ Lang::Spanish, "Temas de Ayuda" },
+			{ Lang::Spanish, "Temas de ayuda" },
 			{ Lang::Finnish, "Ohjeen aiheet" },
 			{ Lang::French, "Rubriques d'aide" },
 			{ Lang::Hebrew, "נושאי עזרה" },
@@ -6074,6 +6074,7 @@ const TextArray translations::Translations =
 		Msg::Menu1_WindowUniformScale,
 		{
 			{ Lang::English, "Uniform Scaling" },
+			{ Lang::Spanish, "Escala uniforme" },
 			{ Lang::Russian, "Сохранение Пропорций" },
 			{ Lang::SimplifiedChinese, "锁定宽高比缩放" },
 			{ Lang::TraditionalChinese, "鎖定寬高比縮放" },
@@ -6170,6 +6171,7 @@ const TextArray translations::Translations =
 		Msg::Menu1_Table_Resolution,
 		{
 			{ Lang::English, "Table Resolution" },
+			{ Lang::Spanish, "Tabla de resoluci" },
 			{ Lang::Russian, "Разрешение Стола" },
 			{ Lang::SimplifiedChinese, "桌面分辨率" },
 			{ Lang::TraditionalChinese, "桌台解析度" },
@@ -6208,6 +6210,7 @@ const TextArray translations::Translations =
 		Msg::Menu1_UseMaxResolution_640x480,
 		{
 			{ Lang::English, "Use Maximum Resolution (640 x 480)" },
+			{ Lang::Spanish, "Usar resolución máxima (640 x 480)" },
 			{ Lang::Russian, "Использовать Максимальное Разрешение (640 x 480)" },
 			{ Lang::SimplifiedChinese, "使用最大分辨率 (640 x 480)" },
 			{ Lang::TraditionalChinese, "使用最大解析度 (640 x 480)" },
@@ -6217,6 +6220,7 @@ const TextArray translations::Translations =
 		Msg::Menu1_UseMaxResolution_800x600,
 		{
 			{ Lang::English, "Use Maximum Resolution (800 x 600)" },
+			{ Lang::Spanish, "Usar resolución máxima (800 x 600)" },
 			{ Lang::Russian, "Использовать Максимальное Разрешение (800 x 600)" },
 			{ Lang::SimplifiedChinese, "使用最大分辨率 (800 x 600)" },
 			{ Lang::TraditionalChinese, "使用最大解析度 (800 x 600)" },
@@ -6226,6 +6230,7 @@ const TextArray translations::Translations =
 		Msg::Menu1_UseMaxResolution_1024x768,
 		{
 			{ Lang::English, "Use Maximum Resolution (1024 x 768)" },
+			{ Lang::Spanish, "Usar resolución máxima (1024 x 768)" },
 			{ Lang::Russian, "Использовать Максимальное Разрешение (1024 x 768)" },
 			{ Lang::SimplifiedChinese, "使用最大分辨率 (1024 x 768)" },
 			{ Lang::TraditionalChinese, "使用最大解析度 (1024 x 768)" },
@@ -6235,6 +6240,7 @@ const TextArray translations::Translations =
 		Msg::Menu1_ToggleShowMenu,
 		{
 			{ Lang::English, "Show Menu"},
+			{ Lang::Spanish, "Mostrar menú"},
 		}
 	}
 };
